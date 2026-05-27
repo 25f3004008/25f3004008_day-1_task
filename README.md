@@ -1,6 +1,6 @@
 Daily Task Management System
 
-Student Name: Ankush Kumar
+Student Name: Ankush Kumar<br>
 Student Email: 25f3004008@ds.study.iitm.ac.in
 
 This repository contains Git and GitHub practice tasks including commits,
